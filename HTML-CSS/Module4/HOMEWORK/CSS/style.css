@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    -webkit-box-sizing: border-box;
+}
+.container{
+    max-width: 1100px;
+    margin: auto;
+}
+.header {
+    padding: 40px 0 110px;
+}
+.month {
+    text-transform: uppercase;
+    color: #555252;
+    font-size: 30px;
+    text-decoration: none;
+    margin-right:410px;
+    display: block;
+}
+.month::first-letter {
+    color: #1abc9c;
+    font-weight: bold;
+}
+
+.month, .nav, .nav-item, .nav-list {
+    display: inline-block;
+}
+.header {
+    padding:200px 0;
+}
+
+.nav-link {
+    text-transform: uppercase;
+    color: #0f0101;
+    text-shadow: 1px 1px #afaaaa;
+    text-decoration: none;
+    padding-right: 35px;
+}
+
+.nav-item:hover > .nav-link {
+    color: #1abc9c;
+    text-shadow: 1px 1px #b3e9de;
+
+}
