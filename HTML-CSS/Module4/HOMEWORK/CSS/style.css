@@ -8,8 +8,9 @@
 .container{
     max-width: 1100px;
     margin: auto;
+    padding-bottom: 60px;
 }
-.header {
+.header-top {
     padding: 40px 0 110px;
 }
 .month {
@@ -20,6 +21,7 @@
     margin-right:410px;
     display: block;
 }
+
 .month::first-letter {
     color: #1abc9c;
     font-weight: bold;
@@ -28,9 +30,9 @@
 .month, .nav, .nav-item, .nav-list {
     display: inline-block;
 }
-.header {
-    padding:200px 0;
-}
+/*.header {*/
+    /*padding:200px 0;*/
+/*}*/
 
 .nav-link {
     text-transform: uppercase;
@@ -44,4 +46,85 @@
     color: #1abc9c;
     text-shadow: 1px 1px #b3e9de;
 
+}
+.image {
+    background-color: #e9f0fd;
+    width: 252px;
+    height: 292px;
+    margin-bottom:-4px;
+}
+.header {
+    text-transform: uppercase;
+    color: #515151;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 75px;
+}
+.products:after {
+    content: "\2014";
+    color: #1abc9c;
+}
+
+.image-set {
+    float: left;
+    padding: 5px;
+    list-style: none;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.price-tag {
+    text-transform: uppercase;
+    color: white;
+    font-size: 0px;
+    font-weight: bold;
+
+}
+.name {
+    background-color: #323232;
+    display: inline-block;
+    font-size: 12px;
+    padding: 12px;
+}
+.price {
+    background-color: #8c8c8c;
+    display: inline-block;
+    font-size: 12px;
+    padding: 12px;
+}
+.price-tag:hover > .name {
+    background-color: #1abc9c;
+}
+
+.price-tag:hover > .price {
+    background-color: #b3e9de;
+}
+
+.section1 {
+    margin-bottom: 100px;
+}
+/*.news-title, .news-paragraph {*/
+     /*width: 252px;*/
+ /*}*/
+.news-list {
+    list-style: none;
+}
+
+.news-image {
+    width: 345px;
+    height: 262px;
+    float: left;
+    list-style: none;
+
+
+
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
 }
