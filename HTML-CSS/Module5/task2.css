@@ -1,0 +1,66 @@
+.wrapper {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    position: relative;
+}
+.box {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
+
+.box1 {
+    top: 0;
+    left: 0;
+    background-color: orange;
+
+}
+.box2 {
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+    background-color: green;
+
+}
+.box3 {
+    top: 0;
+    right: 0;
+    background-color: deeppink;
+
+}
+.box4 {
+    background-color: lavender;
+    right: 100%;
+    left: 50%;
+    transform: translate(-100%, -50%);
+
+}
+.box5 {
+
+    background-color: yellow;
+
+
+}
+
+.box6 {
+    background-color: blue;
+    right: 0;
+    left: 0;
+}
+.box7{
+
+    background-color: aqua;
+
+}
+.box8 {
+
+
+    background-color: aquamarine;
+
+}
+.box9 {
+
+    background-color: orangered;
+
+}
