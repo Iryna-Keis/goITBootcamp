@@ -175,3 +175,11 @@
     text-transform: capitalize;
 
 }
+
+.image-set:hover .name{
+    background-color: rgba(26, 188, 156, 0.8);
+}
+
+.image-set:hover .price {
+    background-color: rgba(26, 188, 156, 0.4);
+}

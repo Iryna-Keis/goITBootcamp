@@ -29,7 +29,7 @@ h1 {
 }
 
 .nav {
-    width: 492.1px;
+    width: 500px;
     margin: 0 auto;
     background: #1e8449;
     color: #f0f0f0;
@@ -96,3 +96,4 @@ h1 {
 
 .nav__submenu-item:hover > .list {
     display: block;
+}
