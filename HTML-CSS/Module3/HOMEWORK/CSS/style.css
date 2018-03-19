@@ -12,9 +12,9 @@
     padding-top: 60px;
 
 }
-/*.header {*/
-    /*padding: 70px 0 100px;*/
-/*}*/
+.header {
+    margin-bottom: 70px;
+}
 .nav {
     /*color: #626262;*/
     /*text-transform: uppercase;*/
@@ -47,7 +47,7 @@ ul {
     text-decoration: none;
     text-transform: uppercase;
     display: block;
-    margin:15px 18px;
+    padding:15px 18px;
 }
 
 .gallery-picture {
@@ -81,9 +81,13 @@ ul {
     font-size: 16px;
 }
 
-    .gallery-item:nth-child(-n+2) {
+.gallery-item:nth-last-child(-n+2) {
         margin-bottom: 0;
     }
+
+.gallery-list {
+    margin-bottom: 80px;
+}
 
 .button {
     color: #818181;
