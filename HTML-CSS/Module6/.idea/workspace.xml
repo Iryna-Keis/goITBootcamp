@@ -13,48 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tasknew.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TASKS/tasknew.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stylenew.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TASKS/stylenew.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="57" lean-forward="false" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Module5/HOMEWORK/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="37" lean-forward="false" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Module5/HOMEWORK/CSS/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="269" column="18" lean-forward="false" selection-start-line="269" selection-start-column="18" selection-end-line="269" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,10 +46,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="805" />
+    <option name="height" value="807" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -183,27 +142,102 @@
       <workItem from="1521472023769" duration="539000" />
       <workItem from="1521473882829" duration="580000" />
       <workItem from="1521475691182" duration="550000" />
-      <workItem from="1521477645341" duration="328000" />
+      <workItem from="1521477645341" duration="548000" />
+      <workItem from="1521482564008" duration="587000" />
+      <workItem from="1521532321250" duration="565000" />
+      <workItem from="1521534134374" duration="579000" />
+      <workItem from="1521536010389" duration="598000" />
+      <workItem from="1521542867072" duration="598000" />
+      <workItem from="1521544803132" duration="531000" />
+      <workItem from="1521549173517" duration="598000" />
+      <workItem from="1521550989032" duration="573000" />
+      <workItem from="1521552798671" duration="590000" />
+      <workItem from="1521554608632" duration="445000" />
+      <workItem from="1521561108250" duration="1196000" />
+      <workItem from="1521562917602" duration="580000" />
+      <workItem from="1521564866412" duration="589000" />
+      <workItem from="1521566704060" duration="598000" />
+      <workItem from="1521568512959" duration="590000" />
+      <workItem from="1521570322337" duration="598000" />
+      <workItem from="1521618356496" duration="598000" />
+      <workItem from="1521621222780" duration="597000" />
+      <workItem from="1521623729457" duration="598000" />
+      <workItem from="1521625535453" duration="598000" />
+      <workItem from="1521627661008" duration="939000" />
+      <workItem from="1521630100205" duration="537000" />
+      <workItem from="1521632164972" duration="598000" />
+      <workItem from="1521662160467" duration="598000" />
+      <workItem from="1521664037697" duration="598000" />
+      <workItem from="1521704212033" duration="584000" />
+      <workItem from="1521706426084" duration="499000" />
+      <workItem from="1521708801220" duration="597000" />
+      <workItem from="1521710612808" duration="598000" />
+      <workItem from="1521712707590" duration="598000" />
+      <workItem from="1521714531849" duration="547000" />
+      <workItem from="1521716346283" duration="577000" />
+      <workItem from="1521718160276" duration="597000" />
+      <workItem from="1521719970625" duration="598000" />
+      <workItem from="1521726453420" duration="573000" />
+      <workItem from="1521728267143" duration="597000" />
+      <workItem from="1521730076041" duration="598000" />
+      <workItem from="1521731879183" duration="598000" />
+      <workItem from="1521744394949" duration="598000" />
+      <workItem from="1521746442314" duration="538000" />
+      <workItem from="1521748281279" duration="582000" />
+      <workItem from="1521750118907" duration="598000" />
+      <workItem from="1521751988151" duration="585000" />
+      <workItem from="1521753847648" duration="598000" />
+      <workItem from="1521755660652" duration="501000" />
+      <workItem from="1521794123751" duration="598000" />
+      <workItem from="1521795967799" duration="558000" />
+      <workItem from="1521797811040" duration="602000" />
+      <workItem from="1521800832319" duration="594000" />
+      <workItem from="1521802801891" duration="500000" />
+      <workItem from="1521807078712" duration="598000" />
+      <workItem from="1521808891586" duration="598000" />
+      <workItem from="1521809827421" duration="57000" />
+      <workItem from="1521810009016" duration="598000" />
+      <workItem from="1521811816664" duration="598000" />
+      <workItem from="1521813967687" duration="598000" />
+      <workItem from="1521815783836" duration="598000" />
+      <workItem from="1521817589150" duration="579000" />
+      <workItem from="1521819772872" duration="598000" />
+      <workItem from="1521889170530" duration="551000" />
+      <workItem from="1521891494798" duration="598000" />
+      <workItem from="1521893319490" duration="579000" />
+      <workItem from="1521895448458" duration="598000" />
+      <workItem from="1521897322209" duration="595000" />
+      <workItem from="1521899164382" duration="597000" />
+      <workItem from="1521902086056" duration="598000" />
+      <workItem from="1521903912964" duration="502000" />
+      <workItem from="1521905781626" duration="598000" />
+      <workItem from="1521907592577" duration="598000" />
+      <workItem from="1521909564525" duration="589000" />
+      <workItem from="1521911387447" duration="597000" />
+      <workItem from="1521913196728" duration="598000" />
+      <workItem from="1521968245607" duration="597000" />
+      <workItem from="1521970199122" duration="598000" />
+      <workItem from="1521972014736" duration="592000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49472000" />
+    <option name="totallyTimeSpent" value="93788000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="805" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -532,7 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -540,15 +573,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="57" lean-forward="false" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Module5/HOMEWORK/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
+        <state relative-caret-position="375">
           <caret line="40" column="37" lean-forward="false" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -556,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="457">
           <caret line="269" column="18" lean-forward="false" selection-start-line="269" selection-start-column="18" selection-end-line="269" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
