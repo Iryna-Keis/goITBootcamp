@@ -79,7 +79,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,6 +95,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -182,14 +182,34 @@
       <workItem from="1521968245872" duration="598000" />
       <workItem from="1521970199464" duration="598000" />
       <workItem from="1521972014847" duration="592000" />
+      <workItem from="1521975782644" duration="598000" />
+      <workItem from="1521986219048" duration="576000" />
+      <workItem from="1521988622302" duration="598000" />
+      <workItem from="1521990519448" duration="598000" />
+      <workItem from="1521992329991" duration="476000" />
+      <workItem from="1522000629642" duration="598000" />
+      <workItem from="1522002542179" duration="598000" />
+      <workItem from="1522004355928" duration="598000" />
+      <workItem from="1522006162786" duration="598000" />
+      <workItem from="1522007988322" duration="598000" />
+      <workItem from="1522048051703" duration="519000" />
+      <workItem from="1522053970200" duration="598000" />
+      <workItem from="1522055781961" duration="598000" />
+      <workItem from="1522058082469" duration="598000" />
+      <workItem from="1522059887160" duration="591000" />
+      <workItem from="1522061720683" duration="598000" />
+      <workItem from="1522067015115" duration="574000" />
+      <workItem from="1522068826680" duration="598000" />
+      <workItem from="1522070636777" duration="598000" />
+      <workItem from="1522072448833" duration="429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29853000" />
+    <option name="totallyTimeSpent" value="41390000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="810" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="807" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
